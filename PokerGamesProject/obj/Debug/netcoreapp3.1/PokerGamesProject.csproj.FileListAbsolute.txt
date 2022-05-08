@@ -1,0 +1,13 @@
+D:\PokerGamesProject\bin\Debug\netcoreapp3.1\PokerGamesProject.exe
+D:\PokerGamesProject\bin\Debug\netcoreapp3.1\PokerGamesProject.deps.json
+D:\PokerGamesProject\bin\Debug\netcoreapp3.1\PokerGamesProject.runtimeconfig.json
+D:\PokerGamesProject\bin\Debug\netcoreapp3.1\PokerGamesProject.runtimeconfig.dev.json
+D:\PokerGamesProject\bin\Debug\netcoreapp3.1\PokerGamesProject.dll
+D:\PokerGamesProject\bin\Debug\netcoreapp3.1\PokerGamesProject.pdb
+D:\PokerGamesProject\obj\Debug\netcoreapp3.1\PokerGamesProject.csprojAssemblyReference.cache
+D:\PokerGamesProject\obj\Debug\netcoreapp3.1\PokerGamesProject.AssemblyInfoInputs.cache
+D:\PokerGamesProject\obj\Debug\netcoreapp3.1\PokerGamesProject.AssemblyInfo.cs
+D:\PokerGamesProject\obj\Debug\netcoreapp3.1\PokerGamesProject.csproj.CoreCompileInputs.cache
+D:\PokerGamesProject\obj\Debug\netcoreapp3.1\PokerGamesProject.dll
+D:\PokerGamesProject\obj\Debug\netcoreapp3.1\PokerGamesProject.pdb
+D:\PokerGamesProject\obj\Debug\netcoreapp3.1\PokerGamesProject.genruntimeconfig.cache
